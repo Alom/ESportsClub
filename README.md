@@ -1,2 +1,2 @@
 # ESportsClub
-# This is only for E
+#### This is only for Esports club recording
