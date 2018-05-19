@@ -20,14 +20,15 @@ names = {1:r"Ao, Lan |帅气五峰毛尖",
 16:r"Liu Chang |刘畅?",
 17:r"曦|ufc神秘高手",
 18:r"Lian, Jian|Water Lee",
-19:r"jiang haiping|脆甜小西瓜瓜"
+19:r"jiang haiping|脆甜小西瓜瓜",
+20:r"Zhang, Miaoting|cccathyyy"
 }
 
 count = 0
 namesVec = []
 
 while (count < 10):
-    r = random.randint(2, 19)
+    r = random.randint(2, 20)
     #print r
     if (names[r] not in namesVec):
         namesVec.append(names[r])
