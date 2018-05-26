@@ -21,6 +21,8 @@ ID|姓名|王者ID|皮肤积分|2018-05-12积分|2018-05-19积分|2018-05-26积�
 18|Li, Jian|Water Lee||0+2.5+5+6=13.5|2.5||
 19|jiang haiping|脆甜小西瓜瓜||0+0+4+0=4|0||
 20|Zhang Miaoting|cccathyyy||0+2.5+0+0=2.5|0|||
+21|Nie, Shichao|Shney||||||
+22|Ma, Dongfang|未初始化||||||
 
 ## 2018-05-12 比赛情况
 ![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-05-12/5-12-1.jpg)

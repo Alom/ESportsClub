@@ -21,7 +21,9 @@ names = {1:r"Ao, Lan |帅气五峰毛尖",
 17:r"曦|ufc神秘高手",
 18:r"Lian, Jian|Water Lee",
 19:r"jiang haiping|脆甜小西瓜瓜",
-20:r"Zhang, Miaoting|cccathyyy"
+20:r"Zhang, Miaoting|cccathyyy",
+21:r"Nie, Shichao|Shney",
+22:r"Ma, Dongfang|未初始化"
 }
 
 count = 0
