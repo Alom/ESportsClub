@@ -30,7 +30,7 @@ count = 0
 namesVec = []
 
 while (count < 10):
-    r = random.randint(2, 20)
+    r = random.randint(2, 22)
     #print r
     if (names[r] not in namesVec):
         namesVec.append(names[r])
