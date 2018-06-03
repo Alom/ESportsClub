@@ -44,3 +44,8 @@ ID|姓名|王者ID|皮肤积分|2018-05-12积分|2018-05-19积分|2018-05-26积�
 ![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-05-26/5-26-3.jpeg)
 ![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-05-26/5-26-4.jpeg)
 ![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-05-26/5-26-5.jpeg)
+## 2018-06-02 比赛情况
+![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-06-02/6-2-1.jpeg)
+![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-06-02/6-2-2.jpeg)
+![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-06-02/6-2-3.jpeg)
+![Alt text](https://raw.githubusercontent.com/Alom/ESportsClub/master/May/2018-06-02/6-2-4.jpeg)
