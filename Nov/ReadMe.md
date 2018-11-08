@@ -5,7 +5,14 @@
 |-----|-----|-----|-----|
 |马啸|杭十四狗王|UD||
 |李嘉|alex123bob|NE||
-|||||
+|吴昊|hawu|RANDOM||
 |||||
 |||||
 ### 观战者
+|名字|
+|------|
+|Yao, Zhen|
+|Ao, Lan|
+|Zhu, Bo|
+|Zhang, Xiaoliang|
+|Li, Yunhe|
