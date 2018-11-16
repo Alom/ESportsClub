@@ -8,8 +8,8 @@
 |马啸|杭十四狗王|UD|||
 |李嘉|alex123bob|NE|||
 |吴昊|hawu|RANDOM|||
-|聂飞|viper|RANDOM|||
-||||||
+|聂飞|viper|NE|||
+|徐利|Linatra|UD|||
 ### 观战者
 |名字|
 |------|
