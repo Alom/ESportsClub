@@ -5,12 +5,12 @@
 ### 挑战赛
 |名字|ID|种族|比分(vs. Dongfang)|积分|
 |-----|-----|-----|-----|-----|
-|马啸|杭十四狗王|UD|||
-|李嘉|alex123bob|NE|||
+|马啸|杭十四狗王|UD|ei, tr||
+|李嘉|alex123bob|NE|ei, tm||
 |吴昊|hawu|RANDOM|||
-|聂飞|viper|NE|||
-|徐利|Linatra|UD|||
-|刘润|||||
+|聂飞|viper|NE|ei, tm||
+|徐利|Linatra|UD|ei, tm||
+|刘润|||ei, tr||
 ### 观战者
 |名字|
 |------|
